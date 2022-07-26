@@ -1,0 +1,140 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5.625rem;
+  line-height: 1;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Merriweather', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 100px 0 0 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+p {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+.copyright {
+  font-family: serif;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding {
+  width: 22%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cricket {
+  width: 25%;
+  float: right;
+}
+
+.esport {
+  float: right;
+  margin: 10px auto auto 30px;
+}
+
+.hr1 {
+  border: dotted gainsboro 7px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: auto;
+  margin-bottom: 70px;
+}
+
+.btn {
+  background: #11cdd4;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #077d6e;
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+
+.copyright {
+  margin-top: 7px;
+  color: #EAF6F6;
+  font-size: 0.85rem;
+  padding: 20px 0;
+}
+
+a:hover {
+  color: gainsboro;
+}
+#profileImg{
+  border-radius:50% ;
+}
+
+
